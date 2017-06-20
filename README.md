@@ -1,6 +1,6 @@
 # Programmable gain amplifier (MCP6S2X)
 
-this class implements the interfaces the functions for the programmable gain amplifier and executes the SPI configuration and communication. The class is defined in MCP6S2X.h.
+This class implements the interface functions for the programmable gain amplifier and executes the SPI configuration and communication. The class is defined in MCP6S2X.h.
 The following code exhibits the SPI setup to establish SPI communication with MCP6S2X device.
 
 ```C
